@@ -19,10 +19,10 @@ I'm **Kainat Gul**, a passionate **Web Developer**.
 ## 📫 Contact Me
 
 <p float="left">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:vetkainat.1998@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/kainat-gul-21472333a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
